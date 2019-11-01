@@ -1,0 +1,36 @@
+.form-control , .card-body  {
+    background-color:#24292e;
+    text-decoration-color:white;
+    color: white;
+}
+
+input {
+    background-color:#24292e;
+    text-decoration-color: white;
+    background: rgba(75, 71, 71, 0.3) ;
+
+}
+.form-control:focus , .form-control:hover  {
+
+    background:rgba(75, 71, 71, 0.3);
+
+}
+h1 , p.lead {
+    text-decoration-color: rgb(255, 255, 255);
+    color:greenyellow;
+
+}
+h1 {
+    text-align: center;
+}
+input#search.form-control {
+    text-decoration-color: white;
+}
+
+li{
+    text-align: center;
+}
+
+body {
+    background-image:url(../images/github_600935.png);
+}
